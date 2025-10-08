@@ -46,6 +46,15 @@ pandas
 
 (Install using pip install -r requirements.txt)
 
+## Responsible / Ethical Use
+
+**This tool is intended for educational use only** — to teach web scraping techniques on sites you own or explicit lab environments (e.g., TryHackMe / Hack The Box labs when permitted).  
+By using the code in this repository you agree to use it **only** on systems you own or where you have explicit permission.
+
+**Do not** use this code to crawl, scan, or otherwise interact with third‑party websites without prior authorization. Misuse may violate laws and terms of service, and could cause harm.
+
+If you are unsure whether you have permission to run this tool against a target, do **not** run it.
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
